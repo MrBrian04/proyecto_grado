@@ -1,0 +1,1 @@
+DATABSE_URL = "pymysql+//root:@localhost:33006"
